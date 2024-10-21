@@ -1,4 +1,4 @@
-# Keyword Tool
+# Website Keyword Scanner Tool
 
 ## Overview
 
