@@ -13,6 +13,9 @@ const htmlContent = `
         <button id="check-keywords">Check for Keywords</button>
         <div id="results"></div>
         <button id="end-task">End Task</button>
+        <div id="attribution" style="margin-top: 10px; font-size: 12px;">
+            Powered by <a href="https://yourwebsite.com" target="_blank">Your Website</a>
+        </div>
     </div>
 </div>
 `;
