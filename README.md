@@ -8,8 +8,14 @@ The Keyword Tool allows you to check the usage of keywords on your web pages. It
 
 To embed the Keyword Tool on your website, include the following script in your HTML:
 
+Ensure to load only when admin is logged in. You don't want the public to see this.
+
+The following example is for symfony, you can use whichever method you use to check if admin is logged in
+
 ```html
-<script src="https://joe-seo-co-ke.github.io/keyword-tool/keyword-tool.js"></script>
+{% if is_granted('ROLE_ADMIN') %}
+    <script src="https://joe-seo-co-ke.github.io/keyword-tool/keyword-tool.js"></script>
+{% endif %}
 <!-- Please link back to https://joeseo.co.ke/keyword-tool -->
 ```
 
