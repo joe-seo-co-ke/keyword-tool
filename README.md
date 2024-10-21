@@ -1,4 +1,3 @@
-```markdown
 # Keyword Tool
 
 ## Overview
