@@ -22,7 +22,7 @@ The following example is for Symfony, but you can use whichever method you prefe
 {% if is_granted('ROLE_ADMIN') %}
     <script src="https://joe-seo-co-ke.github.io/keyword-tool/keyword-tool.js"></script>
 {% endif %}
-<!-- Please link back to [https://joeseo.co.ke/keyword-tool](https://joeseo.co.ke/website-keyword-scanner-tool) -->
+<!-- Please link back to https://joeseo.co.ke/website-keyword-scanner-tool -->
 ```
 Contact me from my website for free guest posting.
 
