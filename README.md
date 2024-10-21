@@ -28,9 +28,9 @@ Contact me from my website for free guest posting.
 
 ### Requirements
 
-- **Attribution**: Please ensure you provide attribution when using this tool. This can be done by adding the comment in the embed script above.
+- **Attribution**: Please ensure you link back to https://joeseo.co.ke/website-keyword-scanner-tool somewhere in your website. I can do guest posting for you.
   
-- **"Powered by" Link**: The tool will automatically display a "Powered by" link in the interface. You can customize the link to point to your website.
+- **"Powered by" Link**: The tool will automatically display a "Powered by" link in the interface. Although the public will never see this, this will make it easy for you to copy the link when you are linking to the page.
 
 ## Usage Instructions
 
